@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
+import { universitiesList } from "../lib/data/data";
 
 export default function Home() {
   return (
